@@ -1,6 +1,6 @@
 # COVID19 Forecast
 
-## [원작자 Ran Kremer의 원문 Medium 아티클은 여기에서 확인하실 수 있습니다.](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
+## [원작자 Ran Kremer의 Medium 아티클 원문은 여기에서 확인하실 수 있습니다.](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
 
 ## Using Kalman Filter to Forecast Corona Virus Spread
 
