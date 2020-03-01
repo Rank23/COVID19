@@ -1,7 +1,7 @@
-# Using Kalman Filter to Predict Corona Virus COVID19 Spread
+# Using Kalman Filter to Predict COVID19 Spread
 
 This work  presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region.
-Coronavirus (COVID19) has recently caused major worldwide concern.
+Coronavirus(COVID19 or SARS-CoV-2) has recently caused major worldwide concern.
 As the number of coronavirus cases reportedly increases, the spread of COVID19 is a serious threat to global health. 
 In this work, we will try to predict the spread of coronavirus for each one of the infected regions. 
 Fitting time series analysis and statistical algorithms to produce the best short term and long term prediction. 
