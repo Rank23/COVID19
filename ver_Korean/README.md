@@ -2,20 +2,10 @@
 
 
 
-## Using Kalman Filter to Forecast Corona Virus Spread
-
-### [원작자 Ran Kremer의 Medium 아티클 원문은 여기에서 확인하실 수 있습니다.](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
-
-This work presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region.
-Coronavirus (COVID19) has recently caused major worldwide concern.
-As the number of coronavirus cases reportedly increases, the spread of COVID19 is a serious threat to global health. 
-In this work, we will try to predict the spread of coronavirus for each one of the infected regions. 
-Fitting time series analysis and statistical algorithms to produce the best short term and long term prediction. 
-An adaptive online Kalman filter provides us very good one-day predictions for each region.
-
-
-
 ## Kalman Filter을 이용한 대한민국의 코로나19 확산/사망/완치 경향 예측: Google Colab
+
+### [원작자 Ran Kremer의 Medium 아티클 원문 1](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
+### [원작자 Ran Kremer의 Medium 아티클 원문 2](https://medium.com/analytics-vidhya/coronavirus-updated-prediction-using-kalman-filter-3ef8b7a72409)
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 대한민국의 확진자 추이를 예측합니다. 인구 데이터, 세계 각 지역별 확진자 수, 날씨 데이터를 입력해서 시계열 데이터 분석과 통계 알고리즘으로  확진자 추이를 예측할 것입니다. 
 
