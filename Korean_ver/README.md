@@ -2,8 +2,8 @@
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 대한민국의 확진자 추이를 예측합니다. 인구 데이터, 세계 각 지역별 확진자 수, 날씨 데이터를 입력해서 시계열 데이터 분석과 통계 알고리즘으로  확진자 추이를 예측할 것입니다. 
 
-- [Click for Google Collab Walkthrough](https://drive.google.com/file/d/1C9hAgLVQpSw4JFZLjXV8xANfHWXMToQg/view?usp=sharing)
-- [구글 콜랩으로 코드를 실행해보세요](https://drive.google.com/file/d/1C9hAgLVQpSw4JFZLjXV8xANfHWXMToQg/view?usp=sharing)
+- [Click for Google Collab Walkthrough](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
+- [구글 콜랩으로 코드를 실행해보세요](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
 
 Ran Kremer이 Kalman Filter로 제작한 모델은 그동안 단기간의 확진자 증가 수를 비교적 정확하게 예측했습니다. 저는 Ran Kremer의 모델을 대한민국의 경우에 한정해서 확진자 수 / 사망자 수 / 완치자 수의 경향을 예측해보려고 합니다. 
 - [2월 22일자 원작자 Ran Kremer의 Medium 아티클 "Kalman Filter을 이용한 코로나19 확산 예측"](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
