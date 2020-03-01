@@ -11,8 +11,7 @@ In this work, we will try to predict the spread of coronavirus for each one of t
 Fitting time series analysis and statistical algorithms to produce the best short term and long term prediction. 
 An adaptive online Kalman filter provides us very good one-day predictions for each region.
 
-## Kalman Filter을 이용한 대한민국의 코로나19 확산/사망/완치 경향 예측
-## [Google Colab에서 코드를 직접 실행시킬 수 있습니다](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
+## [Kalman Filter을 이용한 대한민국의 코로나19 확산/사망/완치 경향 예측: Google Colab](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
 
 ### Short Term Forecast (국내 확진자 수 단기 예측: 1일)
 
