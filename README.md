@@ -15,6 +15,18 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 각 지역 별 확산을 예측합니다. 
 
+### Short Term Forecast (국내 확진자 수 단기 예측: 1일)
+
+- y축은 확진자수, x축은 날짜입니다.
+- 파란색은 실제 데이터값, 노란색은 예측치입니다. 
+
+![200228_shortterm](200228_shortterm.png)
+
+### Long Term Forecast (국내 확진자 수 장기 예측: 30일)
+
+- y축은 확진자수, x축은 날짜입니다.
+- 파란색은 Kalman Filter 예측치입니다.
+
 ![200228_prediction](200228_prediction.png)
 
 [Google Colab에서 코드를 직접 실행시킬 수 있습니다](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
