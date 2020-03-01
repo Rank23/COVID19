@@ -28,7 +28,7 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 
 ![202029Prediction](202029Prediction.png)
 
-![Screen Shot 2020-03-01 at 12.13.01 PM](Screen Shot 2020-03-01 at 12.13.01 PM.png)
+![./Screen Shot 2020-03-01 at 12.13.01 PM](Screen Shot 2020-03-01 at 12.13.01 PM.png)
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 각 지역 별 확산을 예측합니다. 
 
