@@ -15,7 +15,7 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 각 지역 별 확산을 예측합니다. 
 
-![200228 prediction](200228 prediction.png)
+![200228_prediction](200228_prediction.png)
 
 [Google Colab에서 코드를 직접 실행시킬 수 있습니다](https://colab.research.google.com/drive/1xC3R-vq-P4jthhOPMaMP-Bq6R7gOplsH)
 
