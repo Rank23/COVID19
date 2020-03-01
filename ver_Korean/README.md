@@ -12,7 +12,7 @@ Ran Kremer이 Kalman Filter로 제작한 모델은 그동안 단기간의 확진
 
 ### Short Term Forecast (국내 확진자 수 단기 예측: 1일)
 
-![200229shortterm](200229shortterm.png)
+![200229shortterm](./_prediction_images/200229shortterm.png)
 
 - y축은 확진자수, x축은 날짜입니다.
 - 파란색은 실제 데이터값, 노란색은 예측치입니다. 
@@ -21,7 +21,7 @@ Ran Kremer이 Kalman Filter로 제작한 모델은 그동안 단기간의 확진
 
 ### Long Term Forecast (국내 확진자 수 장기 예측: 30일)
 
-![200229longterm](200229longterm.png)
+![200229longterm](./_prediction_images/200229longterm.png)
 
 - y축은 확진자수, x축은 날짜입니다.
 - 파란색은 Kalman Filter 예측치입니다.
