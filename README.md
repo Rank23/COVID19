@@ -15,7 +15,7 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 
 
 
-## Kalman Filter을 이용한 대한민국의 코로나19 확산/사망/완치 경향 예측: Google Colab
+## Kalman Filter을 이용한 대한민국의 코로나19 확산/사망/완치 경향 예측
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 대한민국의 확진자 추이를 예측합니다. 인구 데이터, 세계 각 지역별 확진자 수, 날씨 데이터를 입력해서 시계열 데이터 분석과 통계 알고리즘으로  확진자 추이를 예측할 것입니다. 
 
