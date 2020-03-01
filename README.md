@@ -12,6 +12,6 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 * [Using Kalman Filter to Predict Corona Virus Spread](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
 * [Coronavirus Spread Updated Prediction Using Kalman Filter](https://medium.com/analytics-vidhya/coronavirus-updated-prediction-using-kalman-filter-3ef8b7a72409)
 
-### Kalman Filter을 이용한 대한민국의 코로나19 확진자/사망자/완치자 예측
-* Ran Kremer의 모델을 대한민국의 경우에 한정해서 확진자 수 / 사망자 수 / 완치자 수의 경향을 예측해보려고 합니다.
+## <국문> Kalman Filter을 이용한 대한민국의 코로나19 확진자/사망자/완치자 예측
+* 대한민국의 경우에 한정해서 Ran Kremer의 모델로 확진자 수 / 사망자 수 / 완치자 수의 경향을 예측해보려고 합니다.
 * [(클릭) 국문 버전과 Google Colab을 확인해보세요](./Korean_ver)
