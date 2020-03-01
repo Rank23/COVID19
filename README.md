@@ -26,9 +26,9 @@ An adaptive online Kalman filter provides us very good one-day predictions for e
 - y축은 확진자수, x축은 날짜입니다.
 - 파란색은 Kalman Filter 예측치입니다.
 
-![202029Prediction](202029Prediction.png)
+![200229Prediction](200229Prediction.png)
 
-![./Screen Shot 2020-03-01 at 12.13.01 PM](Screen Shot 2020-03-01 at 12.13.01 PM.png)
+![200229Prediction_Table](200229Prediction_Table.png)
 
 이 연구는 실시간 Kalman Filter 알고리즘을 이용하여 코로나19(COVID19)의 각 지역 별 확산을 예측합니다. 
 
