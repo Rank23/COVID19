@@ -63,10 +63,13 @@ Ran Kremer이 Kalman Filter로 제작한 모델은 그동안 단기간의 확진
 
 
 
-### Dataset
+## Dataset
 
 - 코로나바이러스19로 인한 확진자, 사망자, 데이터셋은 매일 업데이트 됩니다. 
 - [데이터셋의 출처는 Johns Hopkins University CSSE의 Novel Coronavirus (COVID-19) Cases입니다.](https://github.com/CSSEGISandData/COVID-19)
   - 중국의 경우는 각 성(省) 별로 인구 데이터가 나누어져 있습니다.
   - 한국을 포함한 다른 지역들은 국가 단위로 인구 데이터가 나누어져있습니다.
 
+## 보완할 점
+- [ ] 예상 확진자 수가 날짜에 비해서 하루씩 밀림 (ex: 3월 2일 예상 확진자 수는 3783명이 아니라 4005명)
+- [ ] 검사 전체 당 확진 수를 구해서 퍼센트화
