@@ -9,8 +9,8 @@ Fitting time series analysis and statistical algorithms to produce the best shor
 An adaptive online Kalman filter provides us very good one-day predictions for each region.
 
 ### Links to Medium article can be found here
-* [Using Kalman Filter to Predict Corona Virus Spread](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
-* [Coronavirus Spread Updated Prediction Using Kalman Filter](https://medium.com/analytics-vidhya/coronavirus-updated-prediction-using-kalman-filter-3ef8b7a72409)
+* [Using Kalman Filter to Predict Corona Virus Spread (Feb 22)](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
+* [Coronavirus Spread Updated Prediction Using Kalman Filter (Mar 1)](https://medium.com/analytics-vidhya/coronavirus-updated-prediction-using-kalman-filter-3ef8b7a72409)
 
 
 ### Kalman Filter을 이용한 대한민국의 코로나19 확진자/사망자/완치자 예측
