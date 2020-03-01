@@ -4,7 +4,7 @@
 
 ## Using Kalman Filter to Forecast Corona Virus Spread
 
-### [원작자 Ran Kremer의 Medium 아티클 원문은 여기에서 확인하실 수 있습니다.](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
+[원작자 Ran Kremer의 Medium 아티클 원문은 여기에서 확인하실 수 있습니다.](https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8)
 
 This work presents the implementation of an online real-time Kalman filter algorithm to predict the spread of COVID19 per given region.
 Coronavirus (COVID19) has recently caused major worldwide concern.
